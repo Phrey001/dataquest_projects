@@ -48,7 +48,7 @@
       - Egs. df.info(), .describe(), df.head(), df.tail(), df.columns(), df.value_counts(), Series.sort_index()/.sort_values() /.unique()/.shape() ..etc
     - Clean column names by renaming/replacing to lowercase, snakecase, strip white space if necessary ..etc
     - Datatype transformations (egs. astype(int) to change datatype to integer)
-    - Dataframe manipulations (egs. df.drop() to drop columns, remove outliers / keep data rows using
+    - Dataframe manipulations (egs. df.drop() to drop columns, remove outliers / filter select data rows using boolean indexing ..etc)
     - Objects/methods chaining (egs. Series..value_counts().sort_index() ..etc)
 4) Data Visualization Fundamentals: Finding Heavy Traffic Indicators on I-94
 - Steps in project:
