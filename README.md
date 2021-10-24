@@ -41,6 +41,7 @@
   - Practiced applying a variety of pandas methods to explore and understand a data set on car listings
 - Example python skills used:
   - Boolean indexing with NumPy
+    - Egs. Used NumPy's arrays of Boolean to filter select dataframe rows
   - Exploring data with Pandas/NumPy, Egs.
     - Import and load csv file with Pandas to create a dataframe for further work
     - Exploratory functions
@@ -50,3 +51,16 @@
     - Dataframe manipulations (egs. df.drop() to drop columns, remove outliers / keep data rows using
     - Objects/methods chaining (egs. Series..value_counts().sort_index() ..etc)
 4) Data Visualization Fundamentals: Finding Heavy Traffic Indicators on I-94
+- Steps in project:
+  - Exploratory data visualization: build graphs for ourselves to explore data and find patterns.
+- Example python skills used:
+  - Data visualisation libraries such as matplotlib, seaborn
+    - Visualise time series data with line plots
+    - Visualise correlations with scatter plots
+    - Visualise frequency distributions with bar plots and histograms
+    - Speed up our exploratory data visualization workflow with the pandas library
+      - ie. direct plotting with pandas library code instead of using matplotlib
+    - Compare graphs using grid charts (ie. multiple subplots on one grid chart) for ease of presentation
+    - Used seaborn to slightly enhance plot aesthetics only
+      - Seaborn has capability to plot on a single chart featuring multiple variables with qualities such as shape, color shades (ie. hue), sizes ..etc, but did not use it in this project
+    - Datetime objects manipulation using pandas, egs. pd.to_datetime()
