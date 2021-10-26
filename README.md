@@ -77,3 +77,4 @@
   - Create visual patterns using Gestalt principles for design.
   - Guide the audience's attention with pre-attentive attributes.
   - Use Matplotlib built-in styles — eg. FiveThirtyEight style.
+  - Demonstrated rolling mean (ie. moving average) computation in python pandas library.
