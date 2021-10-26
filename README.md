@@ -6,6 +6,7 @@
 2) Python for Data Science: Intermediate: Exploring Hacker News Posts
 3) Pandas and NumPy Fundamentals: Exploring eBay Car Sales Data
 4) Data Visualization Fundamentals: Finding Heavy Traffic Indicators on I-94
+5) Storytelling Data Visualization and Information Design: Storytelling Data Visualization on Exchange Rates
 
 ### Key features demonstrated:
 1) Python for Data Science: Fundamentals Part II: Profitable App Profiles for the App Store and Google Play Markets
@@ -64,3 +65,15 @@
     - Used seaborn to slightly enhance plot aesthetics only
       - Seaborn has capability to plot on a single chart featuring multiple variables with qualities such as shape, color shades (ie. hue), sizes ..etc, but did not use it in this project
     - Datetime objects manipulation using pandas, egs. pd.to_datetime()
+5) Storytelling Data Visualization and Information Design: Storytelling Data Visualization on Exchange Rates
+- Steps in project:
+  - Started by exploring and cleaning the data
+  - Brainstormed ideas for storytelling data visualizations and chose one
+  - Planned (sketched) our data visualization
+  - Coded the planned (sketched) data visualization
+- Example python/design skills used:
+  - Use information design principles (familiarity and maximizing the data-ink ratio) to create better graphs for an audience.
+  - Apply elements of a story and how to create storytelling data visualizations using Matplotlib.
+  - Create visual patterns using Gestalt principles for design.
+  - Guide the audience's attention with pre-attentive attributes.
+  - Use Matplotlib built-in styles — eg. FiveThirtyEight style.
