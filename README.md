@@ -91,6 +91,6 @@
   - Clean and transform data as needed, redefine project projectives if needed based on data suitability
   - Compare statistical properties of 2 separate year groups, by exploring and illustrate using:
     - Kernel Density Estimate (KDE) plots
-    - Relative Freqency Tables (expressed in percentages)
-    - Grouped bar charts (Comparing statistical summary)
+    - Relative Frequency Tables (expressed in percentages)
+    - Grouped Bar Charts (Comparing statistical summary)
   - Suggest conclusion to analysis.
