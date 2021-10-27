@@ -18,7 +18,7 @@
   - Cleaned and prepare data
     - Egs. Removed inaccurate data, duplicate data, non-english characters ..etc
   - Analysed data
-- Example python skills used:
+- Example python skills:
   - Opened and load csv file
   - Used objects and functions
     - Egs. lists, dictionaries, loops, nested loops, conditional statements ..etc
@@ -32,7 +32,7 @@
   - Collected and sorted the data
   - Reformatted and cleaned data
   - Analysed data
-- Example python skills used:
+- Example python skills:
   - Working with strings
     - Egs. transform to lower cases with .lower(), filter with .startswith()
   - Object-oriented programming
@@ -44,7 +44,7 @@
 3) Pandas and NumPy Fundamentals: Exploring eBay Car Sales Data
 - Steps in project:
   - Practiced applying a variety of pandas methods to explore and understand a data set on car listings
-- Example python skills used:
+- Example python skills:
   - Boolean indexing with NumPy
     - Egs. Used NumPy's arrays of Boolean to filter select dataframe rows
   - Exploring data with Pandas/NumPy, Egs.
@@ -59,7 +59,7 @@
 4) Data Visualization Fundamentals: Finding Heavy Traffic Indicators on I-94
 - Steps in project:
   - Exploratory data visualization: build graphs for ourselves to explore data and find patterns.
-- Example python skills used:
+- Example python skills:
   - Data visualisation libraries such as matplotlib, seaborn
     - Visualise time series data with line plots
     - Visualise correlations with scatter plots
@@ -77,7 +77,7 @@
   - Brainstormed ideas for storytelling data visualizations and chose one
   - Planned (sketched) our data visualization
   - Coded the planned (sketched) data visualization
-- Example python/design skills used:
+- Example python/design skills:
   - Use information design principles (familiarity and maximizing the data-ink ratio) to create better graphs for an audience.
   - Apply elements of a story and how to create storytelling data visualizations using Matplotlib.
   - Create visual patterns using Gestalt principles for design.
