@@ -8,6 +8,7 @@
 4) Data Visualization Fundamentals: Finding Heavy Traffic Indicators on I-94
 5) Storytelling Data Visualization and Information Design: Storytelling Data Visualization on Exchange Rates
 6) Statistics Fundamentals: Investigating Fandango Movie Ratings
+7) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise In
 
 ### Key features demonstrated:
 
@@ -94,3 +95,12 @@
     - Relative Frequency Tables (expressed in percentages)
     - Grouped Bar Charts (Comparing statistical summary)
   - Suggest conclusion to analysis.
+ 
+7) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise In
+- Steps in project / Example skills:
+  - How to summarize distributions such as using the mean, and the median.
+  - How to measure the variability of a distribution such as using quartile ranges.
+  - Using various charts such as botplots and bar charts to visusalise distributions.
+  - Segmenting dataset by different variables to explore potential market segments considering a balance of different metrics
+  - Filtering data by identifying and removing outliers for further segmental analysis
+  - Retrieving, identify and print specified sections of JSON file to present metadata purposes
