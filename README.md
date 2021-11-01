@@ -8,7 +8,7 @@
 4) Data Visualization Fundamentals: Finding Heavy Traffic Indicators on I-94
 5) Storytelling Data Visualization and Information Design: Storytelling Data Visualization on Exchange Rates
 6) Statistics Fundamentals: Investigating Fandango Movie Ratings
-7) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise In
+7) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise Inc (Also Included PowerPoint Presentation)
 
 ### Key features demonstrated:
 
