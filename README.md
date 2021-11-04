@@ -8,8 +8,9 @@
 4) Data Visualization Fundamentals: Finding Heavy Traffic Indicators on I-94
 5) Storytelling Data Visualization and Information Design: Storytelling Data Visualization on Exchange Rates
 6) SQL Fundamentals: Analysing CIA FactBook Data Using SQL
-7) Statistics Fundamentals: Investigating Fandango Movie Ratings
-8) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise Inc (Also Included PowerPoint Presentation In GitHub Folder)
+7) Intermediate SQL For Data Analysis: Answering Business Questions Using SQL
+8) Statistics Fundamentals: Investigating Fandango Movie Ratings
+9) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise Inc (Also Included PowerPoint Presentation In GitHub Folder)
 
 ### Key features demonstrated:
 
@@ -88,12 +89,19 @@
   - Demonstrated rolling mean (ie. moving average) computation in python pandas library.
 
 6) SQL Fundamentals: Analysing CIA FactBook Data Using SQL
-- Example sql skills:
+- Example SQL skills:
   - Connect Jupyter Notebook to our database file to run SQL codes with Python libraries sqlite3.
   - Summary Statistics
   - Subqueries
 
-7) Statistics Fundamentals: Investigating Fandango Movie Ratings
+7) Intermediate SQL For Data Analysis: Answering Business Questions Using SQL
+- Example SQL skills:
+  - Subqueries
+  - Multiple joins (to filter columns)
+  - Set operations (example of set operations UNION, INTERSECT, EXCEPT to filter rows)
+  - Aggregate functions
+
+8) Statistics Fundamentals: Investigating Fandango Movie Ratings
 - Steps in project / Example skills:
   - Started by exploring and define project objectives based on background context
   - Clean and transform data as needed, redefine project projectives if needed based on data suitability
@@ -103,7 +111,7 @@
     - Grouped Bar Charts (Comparing statistical summary)
   - Suggest conclusion to analysis.
  
-8) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise In
+9) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise In
 - Steps in project / Example skills:
   - How to summarize distributions such as using the mean, and the median.
   - How to measure the variability of a distribution such as using quartile ranges.
