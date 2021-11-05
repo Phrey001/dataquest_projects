@@ -11,6 +11,7 @@
 7) Intermediate SQL For Data Analysis: Answering Business Questions Using SQL
 8) Statistics Fundamentals: Investigating Fandango Movie Ratings
 9) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise Inc (Also Included PowerPoint Presentation In GitHub Folder)
+10) 'Probabilities: Fundamentals': Mobile App For Lottery Addiction
 
 ### Key features demonstrated:
 
@@ -112,10 +113,16 @@
   - Suggest conclusion to analysis.
  
 9) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise In
-- Steps in project / Example skills:
+- Example skills:
   - How to summarize distributions such as using the mean, and the median.
   - How to measure the variability of a distribution such as using quartile ranges.
   - Using various charts such as botplots and bar charts to visusalise distributions.
   - Segmenting dataset by different variables to explore potential market segments considering a balance of different metrics
   - Filtering data by identifying and removing outliers for further segmental analysis
   - Retrieving, identify and print specified sections of JSON file to present metadata purposes
+
+10) 'Probabilities: Fundamentals': Mobile App For Lottery Addiction
+- Example skills:
+  - How to calculate theoretical probabilities (empirical probabilities don't apply in this project)
+  - How to use probability rules to solve probability problems
+  - How to use combinations (permutations don't apply to this project)
