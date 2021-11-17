@@ -7,11 +7,15 @@
 3) Pandas and NumPy Fundamentals: Exploring eBay Car Sales Data
 4) Data Visualization Fundamentals: Finding Heavy Traffic Indicators on I-94
 5) Storytelling Data Visualization and Information Design: Storytelling Data Visualization on Exchange Rates
-6) SQL Fundamentals: Analysing CIA FactBook Data Using SQL
-7) Intermediate SQL For Data Analysis: Answering Business Questions Using SQL
-8) Statistics Fundamentals: Investigating Fandango Movie Ratings
-9) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise Inc (Also Included PowerPoint Presentation In GitHub Folder)
-10) 'Probabilities: Fundamentals': Mobile App For Lottery Addiction
+6) Data Cleaning And Analysis: Clean And Analyse Employee Exit Surveys
+7) Data Cleaning Project Walkthrough 1: Analysing NYC High School Data
+8) Data Cleaning Project Walkthrough 2: Star Wars Survey
+9) SQL Fundamentals: Analysing CIA FactBook Data Using SQL
+10) Intermediate SQL For Data Analysis: Answering Business Questions Using SQL
+11) Data Analysis In Business: Popular Data Science Questions
+12) Statistics Fundamentals: Investigating Fandango Movie Ratings
+13) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise Inc (Also Included PowerPoint Presentation In GitHub Folder)
+14) 'Probabilities: Fundamentals': Mobile App For Lottery Addiction
 
 ### Key features demonstrated:
 
@@ -89,20 +93,51 @@
   - Use Matplotlib built-in styles — eg. FiveThirtyEight style.
   - Demonstrated rolling mean (ie. moving average) computation in python pandas library.
 
-6) SQL Fundamentals: Analysing CIA FactBook Data Using SQL
+6) Data Cleaning And Analysis: Clean And Analyse Employee Exit Surveys
+- Example skills:
+    - Explore the data and figure out how to prepare it for analysis
+    - Correct some of the missing values
+    - Drop any data not needed for our analysis
+    - Rename our columns
+    - Verify the quality of data
+    - Create new columns (eg. feature engineering)
+    - Combine the data
+    - Handle the missing values in other column
+    - Aggregate the data
+    - Example tools for data cleaning: 
+      - apply(), map(), applymap(), fillna(), dropna(), drop(), melt(), concat(), merge()
+
+7) Data Cleaning Project Walkthrough 1: Analysing NYC High School Data
+- Example skills:
+    - Investigation into relationships between demographics and SAT scores.
+    - Combined multiple datasets into a single, clean pandas dataframe using various joins technique (eg. df.merge(), left joins and inner joins)
+    - Performed various data cleaning techniques to prepare data before proceed with analysis.
+    - Identified correlations based on combinations of statistical computation and charting with scatterplot and line of best fit.
+    - Performed desktop research to suggest potential explanations on identified correlations/trends.
+
+8) Data Cleaning Project Walkthrough 2: Star Wars Survey
+- Example skills:
+    - Exploring and cleaning the data.
+    - High level analysis, followed by analysis by segmentation for more granular insights.
+
+9) SQL Fundamentals: Analysing CIA FactBook Data Using SQL
 - Example SQL skills:
   - Connect Jupyter Notebook to our database file to run SQL codes with Python libraries sqlite3.
   - Summary Statistics
   - Subqueries
 
-7) Intermediate SQL For Data Analysis: Answering Business Questions Using SQL
+10) Intermediate SQL For Data Analysis: Answering Business Questions Using SQL
 - Example SQL skills:
   - Subqueries
   - Multiple joins (to filter columns)
   - Set operations (example of set operations UNION, INTERSECT, EXCEPT to filter rows)
   - Aggregate functions
 
-8) Statistics Fundamentals: Investigating Fandango Movie Ratings
+11) Data Analysis In Business: Popular Data Science Questions
+- Example skills:
+    - Explored the business context in which data science happens.
+
+12) Statistics Fundamentals: Investigating Fandango Movie Ratings
 - Steps in project / Example skills:
   - Started by exploring and define project objectives based on background context
   - Clean and transform data as needed, redefine project projectives if needed based on data suitability
@@ -112,7 +147,7 @@
     - Grouped Bar Charts (Comparing statistical summary)
   - Suggest conclusion to analysis.
  
-9) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise In
+13) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise In
 - Example skills:
   - How to summarize distributions such as using the mean, and the median.
   - How to measure the variability of a distribution such as using quartile ranges.
@@ -121,7 +156,7 @@
   - Filtering data by identifying and removing outliers for further segmental analysis
   - Retrieving, identify and print specified sections of JSON file to present metadata purposes
 
-10) 'Probabilities: Fundamentals': Mobile App For Lottery Addiction
+14) 'Probabilities: Fundamentals': Mobile App For Lottery Addiction
 - Example skills:
   - How to calculate theoretical probabilities (empirical probabilities don't apply in this project)
   - How to use probability rules to solve probability problems
