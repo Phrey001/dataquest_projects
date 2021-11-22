@@ -16,6 +16,7 @@
 12) Statistics Fundamentals: Investigating Fandango Movie Ratings
 13) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise Inc (Also Included PowerPoint Presentation In GitHub Folder)
 14) 'Probabilities: Fundamentals': Mobile App For Lottery Addiction
+15) Conditional Probabilities: Building A Spam Filter With Naive Bayes
 
 ### Key features demonstrated:
 
@@ -161,3 +162,11 @@
   - How to calculate theoretical probabilities (empirical probabilities don't apply in this project)
   - How to use probability rules to solve probability problems
   - How to use combinations (permutations don't apply to this project)
+  
+15) Conditional Probabilities: Building A Spam Filter With Naive Bayes
+- Example skills:
+    - Apply the Naive Bayes algorithm with additive smoothing to classify messages to output binominal results (spam or non-spam).
+        - Assign probabilities to events based on certain conditions by using conditional probability rules.
+        - Assign probabilities to events based on whether they are in relationship of statistical independence or not with other events.
+        - Assign probabilities to events based on prior knowledge by using Bayes' theorem.
+        - Create a spam filter for SMS messages using the multinomial Naive Bayes algorithm.
