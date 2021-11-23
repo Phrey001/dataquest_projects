@@ -17,6 +17,7 @@
 13) 'Intermediate Statistics: Averages And Variability': Finding The Best Markets To Advertise Inc (Also Included PowerPoint Presentation In GitHub Folder)
 14) 'Probabilities: Fundamentals': Mobile App For Lottery Addiction
 15) Conditional Probabilities: Building A Spam Filter With Naive Bayes
+16) 'Hypothesis Testing: Fundamentals': Winning Jeopardy
 
 ### Key features demonstrated:
 
@@ -170,3 +171,8 @@
         - Assign probabilities to events based on whether they are in relationship of statistical independence or not with other events.
         - Assign probabilities to events based on prior knowledge by using Bayes' theorem.
         - Create a spam filter for SMS messages using the multinomial Naive Bayes algorithm.
+        
+16) 'Hypothesis Testing: Fundamentals': Winning Jeopardy
+- Example skills applied:
+    - Applied a chi-square test to identify if any significant statistical differences in categorial data scoped in project.
+        - Processing and preparing the data to get the components of the test, before applying the formula.
