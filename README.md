@@ -180,5 +180,5 @@
         
 17) Machine Learning Fundamentals: Predicting Car Prices
 - Example skills applied:
-    - Applied KNN machine-learning algorithm (k-nearest neighbors algorithm) and cross-validate with training/test sets using holdout validation approach (specific condition of k-fold cross validation** where number of partition is 2) on both univariate and multivariate models.
+    - Applied KNN machine-learning algorithm (k-nearest neighbors algorithm) and cross-validate with training/test sets using holdout validation approach (specific condition of k-fold cross validation where number of partition is 2) on both univariate and multivariate models.
     - Illustrated how k-fold cross validation with different number of partions could potentially be carried out, by applying it on a univariate model.
